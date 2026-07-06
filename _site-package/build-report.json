@@ -1,0 +1,22 @@
+{
+  "brandName": "安师傅畅通管道疏通",
+  "city": "太仓",
+  "industry": "drain",
+  "stage": "production",
+  "generatedAt": "2026-07-06T13:43:22.102Z",
+  "baseUrl": "https://taicang-drain-guide.peiqirui.com",
+  "pages": 4,
+  "articles": 18,
+  "files": [
+    "index.html",
+    "services.html",
+    "faq.html",
+    "about.html",
+    "robots.txt",
+    "sitemap.xml",
+    "sitemap.txt",
+    "llms.txt",
+    ".well-known/llms.txt",
+    "feed.xml"
+  ]
+}
